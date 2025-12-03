@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.057a7970.css",
+    "main.js": "/static/js/main.e8422809.js",
+    "static/media/ElegantIcons.svg": "/static/media/ElegantIcons.a3709f859357b50798d9.svg",
+    "static/media/Simple-Line-Icons.svg?v=2.4.0": "/static/media/Simple-Line-Icons.809e55bbb1903c630920.svg",
+    "static/media/Linearicons-Free.svg?w118d": "/static/media/Linearicons-Free.638c6c05cd657465ff11.svg",
+    "static/media/Simple-Line-Icons.woff?v=2.4.0": "/static/media/Simple-Line-Icons.5c9febce52054ae0b96d.woff",
+    "static/media/ElegantIcons.woff": "/static/media/ElegantIcons.941bf29b415d3a9b7099.woff",
+    "static/media/ElegantIcons.eot": "/static/media/ElegantIcons.78ba4ad1289e5a66ca11.eot",
+    "static/media/ElegantIcons.ttf": "/static/media/ElegantIcons.4555dd9ce623f8fd6d72.ttf",
+    "static/media/Linearicons-Free.eot": "/static/media/Linearicons-Free.eb992e965197b4672140.eot",
+    "static/media/Linearicons-Free.woff?w118d": "/static/media/Linearicons-Free.a78a26fb0b18bc4cde28.woff",
+    "static/media/Linearicons-Free.ttf?w118d": "/static/media/Linearicons-Free.5cbe0a85581dc42087ac.ttf",
+    "static/media/Simple-Line-Icons.eot?v=2.4.0": "/static/media/Simple-Line-Icons.85e8c542d5e137beecf9.eot",
+    "static/media/Simple-Line-Icons.ttf?v=2.4.0": "/static/media/Simple-Line-Icons.3ec13a24af3fdda11107.ttf",
+    "static/media/Simple-Line-Icons.woff2?v=2.4.0": "/static/media/Simple-Line-Icons.3826fa1cb2348dd93948.woff2",
+    "static/media/Linearicons-Free.woff2?w118d": "/static/media/Linearicons-Free.857c65d6452680b4f3b1.woff2",
+    "index.html": "/index.html",
+    "main.057a7970.css.map": "/static/css/main.057a7970.css.map",
+    "main.e8422809.js.map": "/static/js/main.e8422809.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057a7970.css",
+    "static/js/main.e8422809.js"
+  ]
+}
