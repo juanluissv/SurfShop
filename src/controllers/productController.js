@@ -94,7 +94,7 @@ const getProducts = asyncHandler(async (req, res) => {
 });
 
 
-//GET /api/products/id
+///GET /api/products/id
 const getProductsByID = asyncHandler(async (req, res) => {
     const product = await Product.findById(req.params.id);
     if(product) {
@@ -106,7 +106,7 @@ const getProductsByID = asyncHandler(async (req, res) => {
 });
 
 
-//PUT /api/products/id
+///PUT /api/products/id
 const updateProduct = asyncHandler(async (req, res) => {
     const { 
         name, 
